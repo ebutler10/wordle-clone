@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 method: "GET",
                 headers: {
                     "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
-                    "x-rapidapi-key": "f202df29cfmshd2f75362c20ca73p18c695jsn8338ca6f4cc4",
+                    "x-rapidapi-key": "API_KEY",
                 },
             }
         )
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
             method: "GET",
             headers: {
                 "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
-                "x-rapidapi-key": "f202df29cfmshd2f75362c20ca73p18c695jsn8338ca6f4cc4",
+                "x-rapidapi-key": "API_KEY",
             },
         })
 
